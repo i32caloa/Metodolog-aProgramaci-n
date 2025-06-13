@@ -22,4 +22,5 @@ Este repositorio refleja la evolución del aprendizaje mediante ejercicios propu
 - Sistema operativo: Linux
 - Editor recomendado: Sublime Text Version 4
 
-## 📁 Estructura del repositorio
+## 👤 Autor
+ - Antonio Cañete López
