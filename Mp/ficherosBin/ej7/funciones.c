@@ -3,8 +3,8 @@
 void saltoLinea(char *cadena){
 
 	size_t len = strlen(cadena);
-	if(len>0 && cadena[len-1]=='\n'){
-		cadena[len-1]='\0';
+	if(len>0 && cadena[len+1]=='\n'){
+		cadena[len+1]='\0';
 	}
 }
 
